@@ -1,0 +1,4 @@
+C:\projetos\kafka\kafka1\kafka-producer\bin\Debug\netcoreapp3.1\kafka-producer.exe
+C:\projetos\kafka\kafka1\kafka-producer\obj\Debug\netcoreapp3.1\kafka-producer.csprojAssemblyReference.cache
+C:\projetos\kafka\kafka1\kafka-producer\obj\Debug\netcoreapp3.1\kafka-producer.AssemblyInfoInputs.cache
+C:\projetos\kafka\kafka1\kafka-producer\obj\Debug\netcoreapp3.1\kafka-producer.AssemblyInfo.cs
